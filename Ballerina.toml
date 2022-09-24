@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.1.1"
+  name = "pushfueldata"
+  org = "suwani"
+  version = "0.1.0"
+
